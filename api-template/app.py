@@ -8,8 +8,8 @@ from flask_cors import CORS
 # TODO: Adjust the code part below
 # ////////////////////////////////////////////////////////////////////////
 
-GROUP_ID = 'benchmarking-beaver' # TODO: Replace with your groupID
-MODEL_FILE = 'benchmark.model' # relative path to your model file
+GROUP_ID = 'predictive-pandas' # TODO: Replace with your groupID
+MODEL_FILE = 'naive_bayes.model' # relative path to your model file
 MODEL_VERSION = 'v0.1'
 
 # TODO: Adjust the function below so that it calls your vectorizer and 
